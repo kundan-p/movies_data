@@ -1,0 +1,327 @@
+{
+  "movieData": [
+    {
+      "id": "1",
+      "title": "Tanhaji",
+      "description": "A historical drama depicting the life of Tanaji Malusare, a military leader in the army of Chhatrapati Shivaji Maharaj.",
+      "duration": "2 hours 15 minutes",
+      "release_date": "2020-01-08T18:30:00.000Z",
+      "cast": [
+        "Ajay Devgn",
+        "Saif Ali Khan",
+        "Kajol"
+      ],
+      "director": "Om Raut",
+      "producer": "Ajay Devgn, Bhushan Kumar, Krishan Kumar",
+      "trailer": "https://www.youtube.com/watch?v=cffAGIYTEHU",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjUwNzlkNjgtMjZjZi00ZjRjLWE0ZmUtOTM1MWZmZmZjYzQ4XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX820_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Baaghi 3",
+      "description": "A man embarks on a bloody rampage to save his kidnapped brother.",
+      "duration": "2 hours 23 minutes",
+      "release_date": "2020-03-06",
+      "cast": [
+        "Tiger Shroff",
+        "Shraddha Kapoor",
+        "Riteish Deshmukh"
+      ],
+      "director": "Ahmed Khan",
+      "producer": "Sajid Nadiadwala",
+      "trailer": "https://www.youtube.com/watch?v=iylMl5j3l_I",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGFiNWJiOTMtMzE1MS00ZjlkLWJlY2UtNGE3YmUwM2Y5MjM0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UX820_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "hindi movie",
+      "description": "A heartwarming and hilarious story of a father and his daughter who dreams of studying abroad.",
+      "duration": "2 hours 25 minutes",
+      "release_date": "2020-03-13",
+      "cast": [
+        "Irrfan Khan",
+        "Radhika Madan",
+        "Kareena Kapoor Khan"
+      ],
+      "director": "Homi Adajania",
+      "producer": "Dinesh Vijan",
+      "trailer": "https://www.youtube.com/watch?v=rzlfeocUVhI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfsk9bMxxpWOCPMTZ3-MIPmY6crb5BXlDuQ&s"
+    },
+    {
+      "id": "4",
+      "title": "Gulabo Sitabo",
+      "description": "A quirky comedy about a landlord and his tenant squabbling over an old mansion.",
+      "duration": "2 hours 4 minutes",
+      "release_date": "2020-06-12",
+      "cast": [
+        "Amitabh Bachchan",
+        "Ayushmann Khurrana",
+        "Srishti Shrivastava"
+      ],
+      "director": "Shoojit Sircar",
+      "producer": "Ronnie Lahiri, Sheel Kumar",
+      "trailer": "https://www.youtube.com/watch?v=BSfIOpmHxBg",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjFlMDZmOTgtNjA4Mi00MWYxLThkZTYtNjYzMWU4OWM5NGY4XkEyXkFqcGdeQXVyODMyODMxNDY@._V1_QL75_UX820_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Dil Bechara",
+      "description": "A poignant love story about two cancer patients who find solace and joy in each other's company.",
+      "duration": "1 hour 41 minutes",
+      "release_date": "2020-07-24",
+      "cast": [
+        "Sushant Singh Rajput",
+        "Sanjana Sanghi",
+        "Sahil Vaid"
+      ],
+      "director": "Mukesh Chhabra",
+      "producer": "Fox Star Studios",
+      "trailer": "https://www.youtube.com/watch?v=7pJ7k3XwjX0",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWYwNTMwZDQtODRlOS00OTc5LThkMTItZTM3OTc1Njc4ZDEzXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_QL75_UX820_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Ludo",
+      "description": "An anthology film that weaves together stories of four different people connected by unforeseen circumstances.",
+      "duration": "2 hours 30 minutes",
+      "release_date": "2020-11-12",
+      "cast": [
+        "Abhishek Bachchan",
+        "Rajkummar Rao",
+        "Aditya Roy Kapur"
+      ],
+      "director": "Anurag Basu",
+      "producer": "Anurag Basu, Bhushan Kumar, Divya Khosla Kumar",
+      "trailer": "https://www.youtube.com/watch?v=ZdJbXH3YeB8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-bpw3K6rPlCPEv32lj_VrMhUSd7yfhTqbJ4_g-4WVgAerRN4WHhA3lKs2MHB6Rh998Y&usqp=CAU"
+    },
+    {
+      "id": "7",
+      "title": "Coolie No. 1",
+      "description": "A comedy about a matchmaker trying to pair off a rich man's daughter with a coolie who pretends to be a wealthy man.",
+      "duration": "2 hours 15 minutes",
+      "release_date": "2020-12-25",
+      "cast": [
+        "Varun Dhawan",
+        "Sara Ali Khan",
+        "Paresh Rawal"
+      ],
+      "director": "David Dhawan",
+      "producer": "Vashu Bhagnani, Jackky Bhagnani",
+      "trailer": "https://www.youtube.com/watch?v=4Hun3Rjq9YQ",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTFlOGM2ZWUtYmFiNC00ZmRiLTk0YTktMjM2YTY3YjA1ZmUyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpgs"
+    },
+    {
+      "id": "8",
+      "title": "Master",
+      "description": "An action thriller about an alcoholic professor who takes up a teaching job in a juvenile home, where he clashes with a gangster who uses the children for criminal activities.",
+      "duration": "2 hours 58 minutes",
+      "release_date": "2021-01-13",
+      "cast": [
+        "Vijay",
+        "Vijay Sethupathi",
+        "Malavika Mohanan"
+      ],
+      "director": "Lokesh Kanagaraj",
+      "producer": "Xavier Britto",
+      "trailer": "https://www.youtube.com/watch?v=vTmNq3J3MPU",
+      "image": "https://i.pinimg.com/736x/2e/f4/68/2ef4681416c2efa80fae900bad6b4886.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Judas and the Black Messiah",
+      "description": "Based on true events, this film tells the story of Fred Hampton, chairman of the Illinois chapter of the Black Panther Party in late-1960s Chicago, and how FBI informant William O'Neal infiltrated the party to gather intelligence.",
+      "duration": "2 hours 6 minutes",
+      "release_date": "2021-02-12",
+      "cast": [
+        "Daniel Kaluuya",
+        "LaKeith Stanfield",
+        "Jesse Plemons"
+      ],
+      "director": "Shaka King",
+      "producer": "Shaka King, Charles D. King, Ryan Coogler",
+      "trailer": "https://www.youtube.com/watch?v=sSjtGqRXQ9Y",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8Ta86WpemYnP29W0iD2r-UrC4vfKqvQfTA&s"
+    },
+    {
+      "id": "10",
+      "title": "Radhe: Your Most Wanted Bhai",
+      "description": "An action-packed thriller about an encounter specialist who takes on the drug mafia in Mumbai.",
+      "duration": "1 hour 55 minutes",
+      "release_date": "2021-05-13",
+      "cast": [
+        "Salman Khan",
+        "Disha Patani",
+        "Randeep Hooda"
+      ],
+      "director": "Prabhu Deva",
+      "producer": "Salman Khan, Sohail Khan, Atul Agnihotri, Nikhil Namit",
+      "trailer": "https://www.youtube.com/watch?v=oOJtZUzWN0I",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/radhe-et00115114-25-03-2021-07-22-45.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Shershaah",
+      "description": "A biographical war film based on the life of Captain Vikram Batra, an Indian Army officer who was posthumously awarded the Param Vir Chakra, India's highest and most prestigious award for valour, for his actions during the 1999 Kargil War.",
+      "duration": "2 hours 15 minutes",
+      "release_date": "2021-08-12",
+      "cast": [
+        "Sidharth Malhotra",
+        "Kiara Advani",
+        "Shiv Panditt"
+      ],
+      "director": "Vishnuvardhan",
+      "producer": "Karan Johar, Hiroo Yash Johar, Apoorva Mehta, Shabbir Boxwala, Ajay Shah, Himanshu Gandhi",
+      "trailer": "https://www.youtube.com/watch?v=0KXzOuExRT8",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjk1NzcwMDUtNDU4ZC00MzlhLTkzZjAtM2MxMTRjZGE0ODdhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Bhuj: The Pride of India",
+      "description": "A war action film based on the 1971 Indo-Pakistani War, where IAF Squadron Leader Vijay Karnik and his team reconstructed the Bhuj airbase with the help of 300 local women.",
+      "duration": "2 hours 33 minutes",
+      "release_date": "2021-08-13",
+      "cast": [
+        "Ajay Devgn",
+        "Sanjay Dutt",
+        "Sonakshi Sinha"
+      ],
+      "director": "Abhishek Dudhaiya",
+      "producer": "Bhushan Kumar, Ginny Khanuja, Krishan Kumar, Kumar Mangat Pathak, Bunny Sanghavi, Vajir Singh, Abhishek Dudhaiya, Kishan Kumar, Raj Kumar Gupta, Gary Grewal",
+      "trailer": "https://www.youtube.com/watch?v=0YlDeYZQ4UE",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1yH7rx9GQCLsBlmzfzH31b7bGpRCzWQcjmw&s"
+    },
+    {
+      "id": "13",
+      "title": "Sooryavanshi",
+      "description": "An action-packed cop drama that follows the story of an anti-terrorism squad officer who must save Mumbai from a deadly terrorist attack.",
+      "duration": "2 hours 29 minutes",
+      "release_date": "2021-11-05",
+      "cast": [
+        "Akshay Kumar",
+        "Katrina Kaif",
+        "Ajay Devgn",
+        "Ranveer Singh"
+      ],
+      "director": "Rohit Shetty",
+      "producer": "Rohit Shetty, Hiroo Yash Johar, Karan Johar, Aruna Bhatia, Apoorva Mehta",
+      "trailer": "https://www.youtube.com/watch?v=8v2tU95NEg4",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2QwZWI5ZmYtNmU1My00YjI3LWE1ZmMtZTVmZGRhZmVhOWQ0XkEyXkFqcGdeQXVyNzkxOTEyMjI@._V1_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Jersey",
+      "description": "A sports drama film that follows the story of a talented but failed cricketer who decides to return to cricket in his late thirties driven by the desire to represent the Indian cricket team and fulfil his son's wish for a jersey as a gift.",
+      "duration": "2 hours 36 minutes",
+      "release_date": "2021-12-31",
+      "cast": [
+        "Shahid Kapoor",
+        "Mrunal Thakur",
+        "Pankaj Kapur"
+      ],
+      "director": "Gowtam Tinnanuri",
+      "producer": "Allu Aravind, Aman Gill, Dil Raju",
+      "trailer": "https://www.youtube.com/watch?v=uKGLSLT7JoY",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjc0MWFiYTMtNmYyOS00ODczLWEyMzItNzI4YjY0YjJjZGVjXkEyXkFqcGdeQXVyNzEwNjg3MjE@._V1_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "RRR",
+      "description": "An epic historical fiction film set in the 1920s pre-independent era, where two revolutionaries unite to fight against the British Raj and their oppressive rule.",
+      "duration": "2 hours 55 minutes",
+      "release_date": "2022-03-25",
+      "cast": [
+        "N. T. Rama Rao Jr.",
+        "Ram Charan",
+        "Alia Bhatt",
+        "Ajay Devgn"
+      ],
+      "director": "S. S. Rajamouli",
+      "producer": "D. V. V. Danayya",
+      "trailer": "https://www.youtube.com/watch?v=ROK-Lb2UvNY",
+      "image": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Brahmastra",
+      "description": "A fantasy adventure film that follows the journey of Shiva, the mythological figure who embodies the ultimate source of light, love, and wisdom.",
+      "duration": "2 hours 54 minutes",
+      "release_date": "2022-12-09",
+      "cast": [
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Amitabh Bachchan"
+      ],
+      "director": "Ayan Mukerji",
+      "producer": "Karan Johar, Hiroo Yash Johar, Apoorva Mehta",
+      "trailer": "https://www.youtube.com/watch?v=1AAZ6qeR3Jk",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDlhMjZlY2YtZTA1MC00MzQwLTg2ZGUtNWVjNzczOGMwOWZjXkEyXkFqcGdeQXVyMTYyNjAzOTUx._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Pathaan",
+      "description": "An action thriller that follows the story of a covert operative who is on a mission to eliminate a dangerous threat while dealing with his own personal demons.",
+      "duration": "Not released yet",
+      "release_date": "2023-01-25",
+      "cast": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "John Abraham"
+      ],
+      "director": "Siddharth Anand",
+      "producer": "Aditya Chopra",
+      "trailer": "https://m.youtube.com/watch?v=lN5oSl9qsN4",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTgzNjBjYTctOGJiZi00MTliLTk0YzYtNDJmYTQyMDdkMjQ5XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "18",
+      "title": "KGF: Chapter 2",
+      "description": "A sequel to the 2018 film KGF: Chapter 1, this movie continues the story of Rocky, a young man who rises from the streets of Bombay to the power corridors of the gold mines in Kolar.",
+      "duration": "2 hours 56 minutes",
+      "release_date": "2023-04-14",
+      "cast": [
+        "Yash",
+        "Sanjay Dutt",
+        "Raveena Tandon"
+      ],
+      "director": "Prashanth Neel",
+      "producer": "Vijay Kiragandur",
+      "trailer": "https://www.youtube.com/watch?v=cKwx35fFN6k",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmFiZjllYTktYTU3MS00ODFiLWI1MTEtZWY5Yjc5MDVmMzI4XkEyXkFqcGdeQXVyMTExMzcwMTg3._V1_.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Animal",
+      "description": "A dark thriller that explores the complexities of human nature and relationships through the story of a dysfunctional family.",
+      "duration": "Not released yet",
+      "release_date": "2023-07-18",
+      "cast": [
+        "Ranbir Kapoor",
+        "Parineeti Chopra",
+        "Anil Kapoor",
+        "Bobby Deol"
+      ],
+      "director": "Sandeep Reddy Vanga",
+      "producer": "Bhushan Kumar, Krishan Kumar, Murad Khetani, Sandeep Reddy Vanga",
+      "trailer": "https://www.youtube.com/watch?v=8FkLRUJj-o0",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGViM2M4NmUtMmNkNy00MTQ5LTk5MDYtNmNhODAzODkwOTJlXkEyXkFqcGdeQXVyMTY1NDY4NTIw._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Gangubai Kathiawadi",
+      "description": "Based on the life of Gangubai Kothewali, a powerful woman in the 1960s who became the matriarch of Kamathipura and one of the most revered and powerful brothel owners in Mumbai.",
+      "duration": "2 hours 5 minutes",
+      "release_date": "2024-02-23",
+      "cast": [
+        "Alia Bhatt",
+        "Ajay Devgn",
+        "Vijay Raaz"
+      ],
+      "director": "Sanjay Leela Bhansali",
+      "producer": "Sanjay Leela Bhansali, Jayantilal Gada",
+      "trailer": "https://www.youtube.com/watch?v=ThcBKAQVjyk",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2M4NDM2NDItMzgzNy00OWRiLThhNjEtZDA2OWMyNTcwYzRjXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg"
+    }
+  ]
+}
