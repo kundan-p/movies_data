@@ -6,12 +6,16 @@ import {
   Grid,
   Typography,
 } from "@mui/material";
+
 import React, { useState } from "react";
-import { UsemovieContext } from "../Context/movieContext";
+
 import { useNavigate } from "react-router-dom";
+
 import moment from "moment";
 
-export const Home = ({ sort }) => {
+import { UsemovieContext } from "../Context/movieContext";
+
+export const Home = () => {
   const { data } = UsemovieContext();
   const navigate = useNavigate();
   const [search, setSearch] = useState("");

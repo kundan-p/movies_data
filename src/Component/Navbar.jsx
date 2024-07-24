@@ -1,10 +1,12 @@
-import React, { useState } from "react";
 import { BottomNavigation, BottomNavigationAction } from "@mui/material";
 import HomeIcon from "@mui/icons-material/Home";
 import SwapVertIcon from "@mui/icons-material/SwapVert";
-import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import EditIcon from "@mui/icons-material/Edit";
+
+import  { useState } from "react";
+
 import { useNavigate } from "react-router-dom";
+
 import { UsemovieContext } from "../Context/movieContext";
 
 function Navbar() {

@@ -1,5 +1,5 @@
-import { Card, CardMedia } from "@mui/material";
-import React from "react";
+import { Box, CardMedia } from "@mui/material";
+
 import { useLocation } from "react-router-dom";
 
 function MovieDetail() {
@@ -15,17 +15,17 @@ function MovieDetail() {
         sx={{ height: "390px", width: "260px", objectFit: "fill" }}
         image={state.image}
       />
-      <div style={{ fontWeight: "bold" }}>
+      <Box sx={{ fontWeight: "bold" }}>
         <h2>{state.title}</h2>
         <h4>{state.description}</h4>
-        <div style={{ display: "flex", gap: "25px" }}>
+        <Box sx={{ display: "flex", gap: "25px" }}>
           <p>Director : {state.director}</p>
           <p>Producer : {state.producer}</p>
-        </div>
-        <div style={{ display: "flex" }}>
+        </Box>
+        <Box sx={{ display: "flex" }}>
           <p>Cast:</p>
           <p style={{ display: "flex" }}>{state.cast.map((x) => `${x}, `)}</p>
-        </div>
+        </Box>
         <p>Release Date : {state.release_date}</p>
         <p>Duration : {state.duration}</p>
         <button style={{ backgroundColor: "red" }}>
@@ -42,7 +42,7 @@ function MovieDetail() {
             Trailer
           </a>
         </button>
-      </div>
+      </Box>
     </>
   );
 }
