@@ -49,8 +49,16 @@ export const Home = () => {
 
         <Grid container spacing={2}>
           {data
-            ?.filter((x) => x?.title.toLowerCase().includes(search))
-            .map((movie) => (
+            ?.filter(
+              (x) =>
+                x?.title.toLowerCase().includes(search) ||
+                x?.director.toLowerCase().includes(search) ||
+                x?.producer.toLowerCase().includes(search) ||
+                x?.cast?.some(y=>y.toLowerCase().includes(search))
+            )
+            .map((movie) => {
+              // console.log(movie?.cast?.some(x=>x.toLowerCase().includes(search)));
+              return(
               <Grid item key={movie.id} xs={12} sm={6} md={4} lg={3}>
                 <Card
                   sx={{
@@ -65,17 +73,21 @@ export const Home = () => {
                     image={movie.image}
                   />
                   <CardContent sx={{ height: 80 }}>
-                    <Typography variant="h6" gutterBottom>
+                    <Typography
+                      variant="h6"
+                      gutterBottom
+                      sx={{ textTransform: "capitalize" }}
+                    >
                       Title: {movie.title}
                     </Typography>
                     <Typography variant="body1" color="textSecondary">
                       Release Date:{" "}
-                      {moment(`${movie.release_date}`).format("DD-MM-YYYY")}
+                      {moment(`${movie.release_date}`).format("MMMM Do YYYY")}
                     </Typography>
                   </CardContent>
                 </Card>
               </Grid>
-            ))}
+            )})}
         </Grid>
       </Box>
     </>

@@ -1,4 +1,4 @@
-import { Box, CardMedia } from "@mui/material";
+import { Box, CardMedia, Typography } from "@mui/material";
 
 import { useLocation } from "react-router-dom";
 
@@ -16,18 +16,67 @@ function MovieDetail() {
         image={state.image}
       />
       <Box sx={{ fontWeight: "bold" }}>
-        <h2>{state.title}</h2>
-        <h4>{state.description}</h4>
+        <Typography
+          variant="h4"
+          gutterBottom
+          sx={{ textTransform: "capitalize" }}
+        >
+          Title: {state.title}
+        </Typography>
+        <Typography
+          variant="body1"
+          gutterBottom
+          sx={{ textTransform: "capitalize" }}
+        >
+          Description: {state.description}
+        </Typography>
         <Box sx={{ display: "flex", gap: "25px" }}>
-          <p>Director : {state.director}</p>
-          <p>Producer : {state.producer}</p>
+          <Typography
+            variant="body1"
+            gutterBottom
+            sx={{ textTransform: "capitalize" }}
+          >
+            Director: {state.director}
+          </Typography>
+          <Typography
+            variant="body1"
+            gutterBottom
+            sx={{ textTransform: "capitalize" }}
+          >
+            Producer: {state.producer}
+          </Typography>
         </Box>
         <Box sx={{ display: "flex" }}>
-          <p>Cast:</p>
-          <p style={{ display: "flex" }}>{state.cast.map((x) => `${x}, `)}</p>
+          <Typography
+            variant="body1"
+            gutterBottom
+            sx={{ textTransform: "capitalize" }}
+          >
+            Cast:
+          </Typography>
+          <Typography
+            variant="body1"
+            gutterBottom
+            sx={{ textTransform: "capitalize", display: "flex" }}
+          >
+            {state.cast.map((x) => `${x}, `)}
+          </Typography>
         </Box>
-        <p>Release Date : {state.release_date}</p>
-        <p>Duration : {state.duration}</p>
+        <Typography
+          variant="body1"
+          gutterBottom
+          sx={{ textTransform: "capitalize" }}
+        >
+          Release Date : {state.release_date}
+        </Typography>
+        <Typography
+          variant="body1"
+          gutterBottom
+          sx={{ textTransform: "capitalize" }}
+        >
+          Duration : {state.duration}
+        </Typography>
+
         <button style={{ backgroundColor: "red" }}>
           <a
             href={state.trailer}
